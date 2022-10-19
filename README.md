@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center">Sistema de Gestão Acadêmica</h1></p>
 
-<p align="center"><img src="https://github.com/faltas/raw/master/.github/images/captura_de_tela.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gsbenevides2/faltas/main/.github/images/captura_de_tela.png"></p>
 
 ## Descrição
 
@@ -12,7 +12,7 @@ Atividade de modelagem e implementação das classes do sistema descrito pelo pr
 
 ## Diagrama de Classes
 
-<p align="center"><img src="https://github.com/gsbenevides2/faltas/raw/master/.github/images/diagrama_de_classes.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gsbenevides2/faltas/master/.github/images/diagrama_de_classes.jpg"></p>
 Diagrama desenvolvido com uso do [StarUML](http://staruml.io/).
 
 ## Tecnologias
