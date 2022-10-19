@@ -13,7 +13,8 @@ Atividade de modelagem e implementação das classes do sistema descrito pelo pr
 ## Diagrama de Classes
 
 <p align="center"><img src="https://raw.githubusercontent.com/gsbenevides2/faltas/master/.github/images/diagrama_de_classes.jpg"></p>
-Diagrama desenvolvido com uso do [StarUML](http://staruml.io/).
+
+Diagrama desenvolvido com uso do [StarUML](https://staruml.io/).
 
 ## Tecnologias
 
